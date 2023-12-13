@@ -1,0 +1,42 @@
+export const electData = [
+    {
+        id:1,
+        model:"MacBook Pro",
+        desc:"Apple M2 chip. 8-Core CPU 10-Core Unified Memory ",
+        price: 184000,
+        image:"macbook",
+        qty:1,
+    },
+    {
+        id:2,
+        model:"SUMSUNG AC",
+        desc:"SAMSUNG  Cooling 1.5 Ton 3 Star Split Inverter AC",
+        price: 214000,
+        image:"ac",
+        qty:1,
+    },
+    {
+        id:3,
+        model:"Bosch Mixer",
+        desc:"750 W Motor high performance grinding",
+        price: 6000,
+        image:"bosch",
+        qty:1,
+    },
+    {
+        id:4,
+        model:"LG Air Cooler",
+        desc:"LG Pluto IK-TCK15 15L Tower Air Cooler",
+        price: 20000,
+        image:"cooler",
+        qty:1,
+    },
+    {
+        id:5,
+        model:"USHA Fan",
+        desc:"An Usha fan will blow the tiredness away!",
+        price: 9000,
+        image:"fan",
+        qty:1,
+    },
+]

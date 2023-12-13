@@ -1,0 +1,42 @@
+export const phonesData = [
+    {
+        id:1,
+        model:"Apple I Phone",
+        desc:"Apple I Phone 13 Pro Max",
+        price: 54000,
+        image:"Apple",
+        qty:1,
+    },
+    {
+        id:2,
+        model:"SUMSUNG S23",
+        desc:"Sumsung Galaxy S23 ultra",
+        price: 94000,
+        image:"Sumsung",
+        qty:1,
+    },
+    {
+        id:3,
+        model:"Redmi 10",
+        desc:"Redmi Note 10 Pro 256gb",
+        price: 23000,
+        image:"Redmi",
+        qty:1,
+    },
+    {
+        id:4,
+        model:"Nothing",
+        desc:"Nothing Phone 12gb Ram",
+        price: 61000,
+        image:"Nothing",
+        qty:1,
+    },
+    {
+        id:5,
+        model:"Huawei",
+        desc:"Huawei P40 Limited Edition",
+        price: 89000,
+        image:"Huawei",
+        qty:1,
+    },
+]
